@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Ryan Marinho, sou habilidoso em explicar, persuadir e conversar
-
-Mas o que isso tem a ver em ser um analista dados?
+<p align="left">Meu nome é Ryan Marinho, sou habilidoso em explicar, persuadir e conversar. Mas o que isso tem a ver em ser um analista dados?
 
 Para ser verdadeiramente convincente, eu precisava fazer backup do que estava dizendo. É aí que entram os dados.
 
