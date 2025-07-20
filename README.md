@@ -6,7 +6,7 @@
 
 Para ser verdadeiramente convincente, eu precisava fazer backup do que estava dizendo. É aí que entram os dados.
 
-Utilizo minhas habilidades em análise de dados com Excel, Python, SQL e visualização de dados (Tableau e PowerBI) para construir cenários, visões gerais e convencer meus colegas e pares de qual é a melhor maneira de enfrentar e enfrentar um desafio.
+Utilizo minhas habilidades em análise de dados com Excel, Python, SQL e visualização de dados (Tableau e PowerBI) para construir cenários, visões gerais e convencer meus colegas e pares de qual é a melhor maneira de enfrentar um desafio.
 
 Já executei essas acrobacias em empresas em projetos pessoais.
 
